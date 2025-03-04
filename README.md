@@ -59,5 +59,7 @@ This repository contains the implementation and research code for my **Master’
 
 ## 📩 Contact
 📧 Email: baca.matko@gmail.com
+
 🔗 GitHub: [macomatom](https://github.com/macomatom)
+
 🔗 LinkedIn: https://www.linkedin.com/in/martin-baca-5345b6267/
