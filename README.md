@@ -12,8 +12,8 @@ This repository contains the implementation and research code for my **Master’
 ---
 
 ## 📂 Repository Structure
-📦 thesis-repo 
-┣ 📂 data # Processed datasets (not included in the repo due to size) 
+📦 thesis-repo \n
+┣ 📂 data # Processed datasets (not included in the repo due to size) \n
 ┣ 📂 notebooks 
 ┣ 📂 src # Implementation scripts 
 
