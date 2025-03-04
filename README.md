@@ -44,22 +44,6 @@ This repository contains the implementation and research code for my **Master’
 ---
 
 ## 📈 Results
-🚀 The **fine-tuned XLM-RoBERTa model** achieved the best performance:
-
-| **Metric**               | General Questions | Boolean Questions |
-
-| Exact Match Score    | **82.15%**        | **NA**            |
-
-| F1 Score             | **90.26%**        | **94.33%**        |
-
-| Accuracy             | **NA**            | **94.34%**        |
-
-| Precision            | **91.90%**        | **94.37%**        |
-
-| Recall               | **91.40%**        | **94.33%**        |
-
-
-## 🚀 Results
 🔹 The **fine-tuned XLM-RoBERTa model** achieved the best performance:
 
 | **Metric**            | **General Questions** | **Boolean Questions** |
