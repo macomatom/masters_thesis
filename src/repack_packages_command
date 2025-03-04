@@ -1,0 +1,3 @@
+# Spustit z root directory cez terminal po kazdej aktualizacii packageov
+
+pip install -e .

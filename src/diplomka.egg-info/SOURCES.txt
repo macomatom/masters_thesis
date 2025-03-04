@@ -1,0 +1,5 @@
+setup.py
+src/diplomka.egg-info/PKG-INFO
+src/diplomka.egg-info/SOURCES.txt
+src/diplomka.egg-info/dependency_links.txt
+src/diplomka.egg-info/top_level.txt
