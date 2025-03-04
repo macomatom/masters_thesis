@@ -48,9 +48,8 @@ This repository contains the implementation and research code for my **Master’
 
 **| Metric               | General Questions | Boolean Questions |
 
-|----------------------|-------------------|-------------------|
-
 | Exact Match Score    | **82.15%**        | **NA**            |
+---------------------------------------------------
 
 | F1 Score             | **90.26%**        | **94.33%**        |
 
