@@ -22,6 +22,10 @@ This repository contains the implementation and research code for my **Master’
 
 ---
 
+## Data link
+
+https://upjs-my.sharepoint.com/:f:/g/personal/5277040_upjs_sk/En-EtvMZ3e5DnJL95lQUvBAB74-0YcZyNYisjOcU2Ftvcw?e=b2GkhB
+
 ## 📊 Methodology
 ### 🔹 **1. Dataset Creation**
 - **Generated & labeled** a custom dataset using **LLMs**.
